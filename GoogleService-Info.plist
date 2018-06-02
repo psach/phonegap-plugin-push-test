@@ -17,7 +17,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>es.phonegap.push.sample</string>
+	<string>com.test.crossword</string>
 	<key>PROJECT_ID</key>
 	<string>phonegap-plugin-push-sam-e011d</string>
 	<key>STORAGE_BUCKET</key>

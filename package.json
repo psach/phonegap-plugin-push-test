@@ -1,5 +1,5 @@
 {
-    "name": "es.phonegap.push.sample",
+    "name": "com.test.crossword",
     "displayName": "phonegap-plugin-push-sample",
     "version": "1.0.0",
     "description": "A sample Apache Cordova application that responds to the deviceready event.",
