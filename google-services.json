@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "193721549690",
+    "firebase_url": "https://ccwordtest.firebaseio.com",
+    "project_id": "ccwordtest",
+    "storage_bucket": "ccwordtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193721549690:android:f6b4985f54da921c",
+        "android_client_info": {
+          "package_name": "com.test.crossword"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193721549690-jq92bnma4aupico8q85rbdiev82i47ci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ-TDhaSCjHjGrvahtMCPJ7MuxyAYu038"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
